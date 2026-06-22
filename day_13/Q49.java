@@ -1,4 +1,4 @@
-package Summer_Assignment_25114CN348.day_13;
+package Summer_Assignment_25114CN348.Day_13;
 
 import java.util.Scanner;
 
