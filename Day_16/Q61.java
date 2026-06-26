@@ -1,5 +1,4 @@
 package Summer_Assignment_25114CN348.Day_16;
-
 public class Q61 {
      public static void main(String[] args) {
         int[] arr = {1, 2, 3, 5};
